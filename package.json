@@ -1,0 +1,16 @@
+{
+  "name": "ghl-to-clubready",
+  "version": "1.0.0",
+  "description": "Automates sending GHL leads to ClubReady via Puppeteer",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Allan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "puppeteer": "^22.15.0"
+  }
+}
